@@ -1,1 +1,19 @@
-Replace this with a list of your favorite things.
+1. heart
+   1. 🖤
+   2. 💙
+   3. 💔
+   4. 🤎
+2. Smile
+   1. 😄
+   2. 😸
+   3. 😃
+   4. 😅
+
+- A
+  - a
+  - b
+  - c
+- B
+  - d
+  - e
+  - f
